@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 neo4j
 neo4j:4.4.34
+neo4j:4.3.0
