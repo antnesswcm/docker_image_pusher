@@ -13,3 +13,4 @@ vulnerables/web-dvwa
 citizenstig/dvwa
 8023/pikachu-expect:latest
 mongo
+ghcr.io/digininja/dvwa:d053c4d
