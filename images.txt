@@ -14,3 +14,4 @@ citizenstig/dvwa
 8023/pikachu-expect:latest
 mongo
 ghcr.io/digininja/dvwa:d053c4d
+docker.io/library/mariadb:10
